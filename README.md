@@ -2,6 +2,8 @@
 
 **UCSD Data Science Bootcamp Module 15 Challenge**
 
+As of 12/08/2023, `Leaflet-Part-2` has not been completed.
+
 ## Code Sources and Locations:
 
 - Starter code - from `Starter_Code` folder
